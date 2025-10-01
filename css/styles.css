@@ -317,26 +317,36 @@ header {
 		height: 30rem;
 	}
 
+	.nuestrocanal {
+		height: 480px;
+	}
+
+	.nuestrocanal h2 {
+		padding-top: 2rem;
+		margin-bottom: -2rem;
+		font-size: 2.5rem;
+	}
+
 	.nuestrocanal img {
-		width: 15rem;
+		width: 22rem;
 		border-radius: 1.5rem;
 	}
 
 	.nuestrocanal iframe {
 		border-radius: 1.5rem;
-		height: 133.3px;
-		width: 240px;
+		height: 195px;
+		width: calc(20rem);
 	}
 
 	.images-med {
 		width: 70rem;
-		margin: 4rem auto 0;
+		margin: 4rem auto;
 	}
 
 	.eventos {
 		height: 20rem;
 		width: 100vw;
-		margin: -5rem auto 2rem;
+		margin: -2rem auto 6rem;
 	}
 
 	.estereo img {
